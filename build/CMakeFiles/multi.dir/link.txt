@@ -1,0 +1,1 @@
+/usr/bin/gcc-5  -pthread  -rdynamic CMakeFiles/multi.dir/condition.c.o CMakeFiles/multi.dir/threadpool.c.o CMakeFiles/multi.dir/multi-thread.c.o  -o multi 

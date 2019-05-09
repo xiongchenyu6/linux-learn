@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenyu/personal/linux-learn/condition.c
+condition.h
+/home/chenyu/personal/linux-learn/condition.h
+
+/home/chenyu/personal/linux-learn/condition.h
+pthread.h
+-
+
+/home/chenyu/personal/linux-learn/multi-thread.c
+threadpool.h
+/home/chenyu/personal/linux-learn/threadpool.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/home/chenyu/personal/linux-learn/threadpool.c
+threadpool.h
+/home/chenyu/personal/linux-learn/threadpool.h
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+/home/chenyu/personal/linux-learn/threadpool.h
+condition.h
+/home/chenyu/personal/linux-learn/condition.h
+

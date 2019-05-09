@@ -1,0 +1,3 @@
+/home/chenyu/personal/linux-learn/build/CMakeFiles/rebuild_cache.dir
+/home/chenyu/personal/linux-learn/build/CMakeFiles/multi.dir
+/home/chenyu/personal/linux-learn/build/CMakeFiles/edit_cache.dir
